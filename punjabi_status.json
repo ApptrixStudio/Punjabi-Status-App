@@ -1,14 +1,55 @@
 [
-  {
-    "category": "Love",
-    "status": "ਤੂੰ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਹੈ"
-  },
-  {
-    "category": "Sad",
-    "status": "ਕਿਸਮਤ ਵੀ ਧੋਖਾ ਦੇ ਗਈ"
-  },
-  {
-    "category": "Attitude",
-    "status": "ਸਾਡਾ ਸਟਾਈਲ ਹੀ ਵੱਖਰਾ"
-  }
+  { "category": "Love", "status": "ਤੇਰੇ ਨਾਲ ਹੀ ਸੱਜਦੀ ਮੇਰੀ ਦੁਨੀਆ" },
+  { "category": "Love", "status": "ਤੇਰੀ ਮੁਸਕਾਨ ਮੇਰਾ ਸੁੱਖ ਹੈ" },
+  { "category": "Love", "status": "ਤੂੰ ਹੀ ਮੇਰੀ ਖੁਸ਼ੀ ਦਾ ਕਾਰਨ ਹੈ" },
+  { "category": "Love", "status": "ਤੇਰੇ ਬਿਨਾ ਸਭ ਸੁੰਨਾ ਲੱਗਦਾ" },
+  { "category": "Love", "status": "ਦਿਲ ਸਿਰਫ ਤੇਰੇ ਲਈ ਧੜਕਦਾ" },
+
+  { "category": "Sad", "status": "ਯਾਦਾਂ ਹੀ ਸਾਥ ਰਹਿ ਗਈਆਂ" },
+  { "category": "Sad", "status": "ਦਿਲ ਟੁੱਟਿਆ ਪਰ ਆਵਾਜ਼ ਨਾ ਆਈ" },
+  { "category": "Sad", "status": "ਅਸੀਂ ਹੀ ਗਲਤ ਸਾਬਤ ਹੋ ਗਏ" },
+  { "category": "Sad", "status": "ਹੁਣ ਕਿਸੇ ਤੇ ਭਰੋਸਾ ਨਹੀਂ" },
+  { "category": "Sad", "status": "ਚੁੱਪੀ ਵੀ ਦਰਦ ਬਿਆਨ ਕਰਦੀ ਹੈ" },
+
+  { "category": "Attitude", "status": "ਸਾਡੀ ਸੋਚ ਹੀ ਸਾਡੀ ਪਛਾਣ" },
+  { "category": "Attitude", "status": "ਅਸੀਂ ਆਪਣੇ ਰੂਲ ਨਾਲ ਜੀਉਂਦੇ ਹਾਂ" },
+  { "category": "Attitude", "status": "ਜਿਹੜੇ ਸਾਡੇ ਨਾਲ ਨੇ ਉਹੀ ਖਾਸ ਨੇ" },
+  { "category": "Attitude", "status": "ਸਟਾਈਲ ਸਾਡਾ ਵੱਖਰਾ ਹੀ ਰਹੇਗਾ" },
+  { "category": "Attitude", "status": "ਨਾਲ ਰਹਿਣਾ ਤਾਂ ਢੰਗ ਨਾਲ ਰਹੋ" },
+
+  { "category": "Motivation", "status": "ਮੇਹਨਤ ਹੀ ਸਫਲਤਾ ਦੀ ਕੁੰਜੀ ਹੈ" },
+  { "category": "Motivation", "status": "ਹਾਰ ਕੇ ਵੀ ਹੌਸਲਾ ਨਾ ਛੱਡੀਏ" },
+  { "category": "Motivation", "status": "ਸਪਨੇ ਵੱਡੇ ਰੱਖੋ" },
+  { "category": "Motivation", "status": "ਮਿਹਨਤ ਕਰਦੇ ਰਹੋ ਫਲ ਮਿਲੇਗਾ" },
+  { "category": "Motivation", "status": "ਹਿੰਮਤ ਨਾਲ ਅੱਗੇ ਵਧੋ" },
+
+  { "category": "Friendship", "status": "ਦੋਸਤ ਹੀ ਅਸਲੀ ਦੌਲਤ ਨੇ" },
+  { "category": "Friendship", "status": "ਯਾਰਾਂ ਨਾਲ ਹੀ ਮੌਜਾਂ ਨੇ" },
+  { "category": "Friendship", "status": "ਸੱਚੇ ਦੋਸਤ ਕਦੇ ਨਹੀਂ ਛੱਡਦੇ" },
+  { "category": "Friendship", "status": "ਦੋਸਤੀ ਦਿਲਾਂ ਦੀ ਹੁੰਦੀ ਹੈ" },
+  { "category": "Friendship", "status": "ਯਾਰੀਆਂ ਜਿੰਦਗੀ ਬਣਾਉਂਦੀਆਂ ਨੇ" },
+
+  { "category": "Life", "status": "ਜਿੰਦਗੀ ਇੱਕ ਸਫਰ ਹੈ" },
+  { "category": "Life", "status": "ਹਰ ਦਿਨ ਨਵਾਂ ਮੌਕਾ ਹੈ" },
+  { "category": "Life", "status": "ਸਮਾਂ ਸਭ ਕੁਝ ਸਿਖਾ ਦਿੰਦਾ ਹੈ" },
+  { "category": "Life", "status": "ਜੋ ਮਿਲਿਆ ਉਹੀ ਕਾਫੀ ਹੈ" },
+  { "category": "Life", "status": "ਜਿੰਦਗੀ ਨੂੰ ਹੱਸ ਕੇ ਜੀਓ" },
+
+  { "category": "Attitude", "status": "ਸਾਡੀ ਅਕੜ ਹੀ ਸਾਡੀ ਪਹਚਾਣ" },
+  { "category": "Attitude", "status": "ਅਸੀਂ ਕਿਸੇ ਤੋਂ ਘੱਟ ਨਹੀਂ" },
+  { "category": "Attitude", "status": "ਜਿਹੜੇ ਸੜਦੇ ਨੇ ਸੜਨ ਦਿਓ" },
+  { "category": "Attitude", "status": "ਨਾਮ ਹੀ ਕਾਫੀ ਹੈ" },
+  { "category": "Attitude", "status": "ਅਸੀਂ ਆਪਣੀ ਮਰਜ਼ੀ ਦੇ ਮਾਲਕ ਹਾਂ" },
+
+  { "category": "Sad", "status": "ਹੱਸਦੇ ਚਿਹਰੇ ਪਿੱਛੇ ਦਰਦ ਲੁਕਿਆ" },
+  { "category": "Sad", "status": "ਅੰਦਰੋਂ ਟੁੱਟੇ ਹੋਏ ਹਾਂ" },
+  { "category": "Sad", "status": "ਕੋਈ ਸਮਝਣ ਵਾਲਾ ਨਹੀਂ" },
+  { "category": "Sad", "status": "ਵਕਤ ਨੇ ਬਹੁਤ ਕੁਝ ਬਦਲ ਦਿੱਤਾ" },
+  { "category": "Sad", "status": "ਦਿਲ ਹਾਲੇ ਵੀ ਰੋਦਾ ਹੈ" },
+
+  { "category": "Love", "status": "ਤੇਰੇ ਨਾਲ ਹੀ ਮੇਰੀ ਪਹਚਾਣ" },
+  { "category": "Love", "status": "ਤੂੰ ਮੇਰੇ ਦਿਲ ਦਾ ਸੁਕੂਨ ਹੈ" },
+  { "category": "Love", "status": "ਤੇਰੇ ਬਿਨਾ ਕੁਝ ਵੀ ਨਹੀਂ" },
+  { "category": "Love", "status": "ਸਾਡਾ ਪਿਆਰ ਸੱਚਾ ਹੈ" },
+  { "category": "Love", "status": "ਤੂੰ ਮੇਰਾ ਸਭ ਕੁਝ ਹੈ" }
 ]
